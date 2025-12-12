@@ -53,6 +53,25 @@ export default function Experience() {
         <ul>
           <li className="job-item">UI automation and UI development</li>
           <li className="job-item">Playwright, BDD</li>
+          <li className="job-item">
+            Designed and maintained scalable UI automation suites using
+            Playwright, Selenium, and scripting to validate core workflows
+            across distributed applications.
+          </li>
+          <li className="job-item">
+            Implemented BDD-based API automation with SpecFlow and C#,
+            validating REST/JSON services and en- suring integration quality.
+            Android platforms using Appium and PowerShell.
+          </li>
+          <li className="job-item">
+            Created and maintained Postman collections for API regression and
+            exploratory testing.
+          </li>
+          <li className="job-item">
+            Collaborated closely with cross-functional teams in an Agile
+            environment, contributing to sprint planning and con- tinuous
+            delivery initiatives.
+          </li>
         </ul>
       </div>
     </section>
