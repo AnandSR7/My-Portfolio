@@ -58,7 +58,7 @@ export default function Contact() {
         </a>
         &nbsp;|&nbsp;
         <a
-          href="https://linkedin.com/in/anand-sreekumar"
+          href="https://www.linkedin.com/in/anand-sreekumar-as7/"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-item"
