@@ -60,6 +60,12 @@ export default function Skills() {
         <li className="skill-item">
           <strong>Tools:</strong> Git, Docker, CI/CD
         </li>
+        <li className="skill-item">
+          <strong>API Testing:</strong> Postman,swagger
+        </li>
+        <li className="skill-item">
+          <strong>Backend:</strong> .Net Core C#, Node.js
+        </li>
       </ul>
     </section>
   );
