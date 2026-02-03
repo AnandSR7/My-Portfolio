@@ -22,7 +22,7 @@ export default function Projects() {
           start: "top bottom",
           toggleActions: "play none none none",
         },
-      }
+      },
     );
   }, []);
 
@@ -59,10 +59,35 @@ export default function Projects() {
             <li>React JS</li>
             <li>.NET</li>
             <li>C#</li>
+            <li>HTML</li>
+            <li>CSS</li>
           </ul>
           <p>
             <a href="https://github.com/AnandSR7/Wordle" className="card-link">
               Wordle
+            </a>
+          </p>
+        </div>
+
+        <div className="project">
+          <h3>Job Tracker</h3>
+          <p>
+            A simple full stack web application to help users track their job
+            applications and manage their job search process.
+          </p>
+          <ul className="project-tags">
+            <li>React JS</li>
+            <li>.NET</li>
+            <li>C#</li>
+            <li>HTML</li>
+            <li>CSS</li>
+          </ul>
+          <p>
+            <a
+              href="https://github.com/AnandSR7/JobApplicationStatus"
+              className="card-link"
+            >
+              Job Tracker
             </a>
           </p>
         </div>
